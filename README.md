@@ -5,8 +5,8 @@ Theoretical Exercises and Lab Project for Computer Vision Course at NTUA, 2023
 - Part 1: Edge Detection in Grayscale Images
   
   <div align="center">
-    <img width = "50%" src="https://github.com/user-attachments/assets/97ff069e-84bf-4813-8b0a-aee60ec60f5e">
-    <img width = "50%" src="https://github.com/user-attachments/assets/b5c3bfbe-01db-4522-9aaf-874734e3c81d">
+    <img width = "50%" height="300" src="https://github.com/user-attachments/assets/97ff069e-84bf-4813-8b0a-aee60ec60f5e">
+    <img width = "50%" height="300" src="https://github.com/user-attachments/assets/b5c3bfbe-01db-4522-9aaf-874734e3c81d">
   </div>
 
 - Part 2: Interest Point Detection
