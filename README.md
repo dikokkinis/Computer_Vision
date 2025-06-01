@@ -3,8 +3,11 @@ Theoretical Exercises and Lab Project for Computer Vision Course at NTUA, 2023
 
 # **Lab 1: Interest Point Detection and Feature Extraction in Images**
 - Part 1: Edge Detection in Grayscale Images
-  <img src="https://github.com/user-attachments/assets/97ff069e-84bf-4813-8b0a-aee60ec60f5e" alt="Image1" width="400" height="300">
-
+  
+  <div align="center">
+    <img width = "50%" src="https://github.com/user-attachments/assets/97ff069e-84bf-4813-8b0a-aee60ec60f5e">
+    <img width = "50%" src="https://github.com/user-attachments/assets/b5c3bfbe-01db-4522-9aaf-874734e3c81d">
+  </div>
 
 - Part 2: Interest Point Detection
 
